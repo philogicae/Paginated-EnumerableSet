@@ -1,7 +1,7 @@
 {
   "name": "paginated-enumerableset",
   "author": "@philogicae",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Modified version of EnumerableSet library with pagination",
   "keywords": [

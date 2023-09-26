@@ -262,7 +262,7 @@ library PaginatedEnumerableSet {
      * Requirements:
      *
      * - `start` must be strictly less than `length`.
-     * - `start` + `size` must be less than `length`.
+     * - `start` + `size` must be less or equal to `length`.
      */
     function subset(
         Bytes32Set storage set,
@@ -376,7 +376,7 @@ library PaginatedEnumerableSet {
      * Requirements:
      *
      * - `start` must be strictly less than `length`.
-     * - `start` + `size` must be less than `length`.
+     * - `start` + `size` must be less or equal to `length`.
      */
     function subset(
         AddressSet storage set,
@@ -487,7 +487,7 @@ library PaginatedEnumerableSet {
      * Requirements:
      *
      * - `start` must be strictly less than `length`.
-     * - `start` + `size` must be less than `length`.
+     * - `start` + `size` must be less or equal to `length`.
      */
     function subset(
         UintSet storage set,
