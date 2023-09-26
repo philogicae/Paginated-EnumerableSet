@@ -1,0 +1,21 @@
+{
+  "name": "paginated-enumerableset",
+  "author": "@philogicae",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Modified version of EnumerableSet library with pagination",
+  "keywords": [
+    "bytes32",
+    "uint256",
+    "address",
+    "set",
+    "enumerable",
+    "library",
+    "pagination",
+    "solidity",
+    "EVM",
+    "ethereum",
+    "blockchain",
+    "openzeppelin"
+  ]
+}
