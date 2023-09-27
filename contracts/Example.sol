@@ -32,8 +32,8 @@ contract Example {
 
     function subset(
         uint256 start,
-        uint256 end
+        uint256 size
     ) public view returns (uint256[] memory result) {
-        result = set.subset(start, end);
+        result = set.subset(start, size);
     }
 }
