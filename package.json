@@ -1,9 +1,13 @@
 {
   "name": "paginated-enumerableset",
   "author": "@philogicae",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "description": "Modified version of EnumerableSet library with pagination",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philogicae/Paginated-EnumerableSet.git"
+  },
   "keywords": [
     "bytes32",
     "uint256",
